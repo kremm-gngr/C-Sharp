@@ -1,0 +1,11 @@
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\bin\Debug\5.10.26 2 uygulama.exe.config
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\bin\Debug\5.10.26 2 uygulama.exe
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\bin\Debug\5.10.26 2 uygulama.pdb
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\obj\Debug\5.10.26 2 uygulama.csproj.AssemblyReference.cache
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\obj\Debug\_5._10._26_2_uygulama.Form1.resources
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\obj\Debug\_5._10._26_2_uygulama.Properties.Resources.resources
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\obj\Debug\5.10.26 2 uygulama.csproj.GenerateResource.cache
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\obj\Debug\5.10.26 2 uygulama.csproj.CoreCompileInputs.cache
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\obj\Debug\5.10.26 2 uygulama.exe
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\obj\Debug\5.10.26 2 uygulama.pdb
+D:\C#\5.10.26 2 uygulama\5.10.26 2 uygulama\obj\Debug\5.10.26 2 uygulama.exe.config

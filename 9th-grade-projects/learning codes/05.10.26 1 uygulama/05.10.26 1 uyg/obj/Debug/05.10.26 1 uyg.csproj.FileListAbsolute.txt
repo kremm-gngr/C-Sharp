@@ -1,0 +1,11 @@
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\bin\Debug\05.10.26 1 uyg.exe.config
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\bin\Debug\05.10.26 1 uyg.exe
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\bin\Debug\05.10.26 1 uyg.pdb
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\obj\Debug\05.10.26 1 uyg.csproj.AssemblyReference.cache
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\obj\Debug\_05._10._26_1_uyg.Form1.resources
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\obj\Debug\_05._10._26_1_uyg.Properties.Resources.resources
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\obj\Debug\05.10.26 1 uyg.csproj.GenerateResource.cache
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\obj\Debug\05.10.26 1 uyg.csproj.CoreCompileInputs.cache
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\obj\Debug\05.10.26 1 uyg.exe
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\obj\Debug\05.10.26 1 uyg.pdb
+D:\C#\05.10.26 1 uyg\05.10.26 1 uyg\obj\Debug\05.10.26 1 uyg.exe.config
